@@ -6,18 +6,6 @@ This project examines Prada Group's acquisition of Versace through an independen
 
 The objective is to estimate Versace's intrinsic value independently of the transaction and assess the operating performance implied by Prada's agreed acquisition price. Rather than simply comparing the purchase price against a standalone valuation, the analysis seeks to understand the assumptions required to bridge the difference.
 
-**Methodology**
-
-  Built a five-year DCF using Capri’s 10-K and 10-Q filings.
-  
-  Forecast revenue, EBIT margins and free cash flow.
-  
-  Estimated WACC and terminal value using the Gordon Growth method.
-  
-  Cross-checked valuation using an exit multiple.
-  
-  Tested sensitivity to key assumptions.
-
 **Key Findings**
 
   Estimated standalone enterprise value of approximately US$1.05bn, compared with the reported US$1.375bn acquisition price.
